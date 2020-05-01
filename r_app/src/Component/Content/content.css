@@ -1,0 +1,8 @@
+.content{
+  height: 450px;
+  box-shadow:  1px 1px 1px 1px #1B2F33;
+  margin: 0px 40px 0px 35px;
+  background-color: rgba(208,206,206,0.7);
+  padding: 20px;
+  overflow: hidden;
+}

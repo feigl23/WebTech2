@@ -1,0 +1,30 @@
+.header{
+ height: 60px;
+ 
+}
+.flexbox
+{
+  display:flex;
+  flex-wrap: wrap;
+  margin: 0px 0px 35px 35px;
+
+}
+.flexitem
+{
+  padding: 15px;
+  width: 200px;
+  color:#000d80;
+  text-shadow: 2px 1px white;
+  font-style: oblique;
+  text-align: center;
+  box-shadow:  1px 2px 1px 1px #1B2F33;
+  font-size: 12pt;
+  height: 20px;
+
+}
+.logo{
+  width: 25px;
+  position: absolute;
+  left:90px;
+  top:20px;
+}
